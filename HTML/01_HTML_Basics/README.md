@@ -265,6 +265,7 @@ Renders with numbers. Use when order matters.
 |---|---|
 | `index.html` | Main practice page covering all topics above |
 | `about.html` | About Me page — practical application of learned tags |
+| `education.html` | Education page — used as example of link to local page|
 
 ---
 
