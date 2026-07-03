@@ -38,13 +38,11 @@ web-development-framework/
 
 │
 ├── HTML/
-│   ├── 01 Introduction
-│   ├── 02 Basic Tags
-│   ├── 03 Lists
-│   ├── 04 Tables
-│   ├── 05 Forms
-│   ├── 06 Multimedia
-│   └── Projects
+│   ├── 01_HTML_Basics
+│   ├── 02_Lists_And_Tables
+│   ├── 03_Forms
+│   ├── 04_Multimedia
+│   └── 05_Semantic_HTML
 │
 ├── CSS/
 │   ├── 01 Selectors
@@ -53,8 +51,8 @@ web-development-framework/
 │   ├── 04 Box Model
 │   ├── 05 Flexbox
 │   ├── 06 Grid
-│   ├── 07 Responsive Design
-│   └── Projects
+│   └── 07 Responsive Design
+│   
 │
 ├── JavaScript/
 │   ├── 01 Variables
@@ -65,16 +63,14 @@ web-development-framework/
 │   ├── 06 Objects
 │   ├── 07 DOM
 │   ├── 08 Events
-│   ├── 09 ES6
-│   └── Projects
+│   └── 09 ES6
 │
 ├── PHP/
 │   ├── 01 Basics
 │   ├── 02 Forms
 │   ├── 03 Sessions
 │   ├── 04 Cookies
-│   ├── 05 OOP
-│   └── Projects
+│   └── 05 OOP
 │
 ├── Database/
 │   ├── MySQL
@@ -87,7 +83,7 @@ web-development-framework/
 │
 ├── Practicals
 │
-└── Mini Projects
+└── Projects
 ```
 
 ---
